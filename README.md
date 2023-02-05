@@ -20,6 +20,8 @@
 
 [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io)
 
+[Example datasets](https://github.com/vega/vega-datasets/blob/next/SOURCES.md)
+
 
 ## Further references
 
