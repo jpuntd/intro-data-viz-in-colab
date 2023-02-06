@@ -35,6 +35,4 @@
 
 [Machine Learning Experiments](https://trekhleb.dev/machine-learning-experiments/#/) with notebooks that can be opened in Colab
 
-
-
-
+[Questions](https://docs.google.com/document/d/1-D2As4F8QCgGzxhGPuQxZT5niqU5liceXH72aVd5ieA/edit?usp=sharing)
